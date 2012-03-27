@@ -1,0 +1,286 @@
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+P {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+LI {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+TR {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+TABLE {
+	FONT-SIZE: 9pt; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+A {
+	COLOR: #0000cc; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.texto {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.texto A {
+	COLOR: #0000cc
+}
+.texto A:hover {
+	TEXT-DECORATION: underline
+}
+.date {
+	FONT-SIZE: 8pt; COLOR: #999999; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.titletext {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #333333; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.summary {
+	MARGIN-TOP: 2px; FONT-SIZE: 8pt; MARGIN-BOTTOM: 2px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.summary A {
+	COLOR: #0000cc
+}
+.summary A:hover {
+	TEXT-DECORATION: underline
+}
+.BCYouRhere {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.AsgardBCLink {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.BCLink {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #0066cc; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.BCLink A {
+	COLOR: #0066cc; TEXT-DECORATION: none
+}
+.BCLink A:hover {
+	TEXT-DECORATION: underline
+}
+.BCLink A:visited {
+	COLOR: #0066cc
+}
+.BCselectlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #ff9900; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.BCselectlink A {
+	COLOR: #ff9900
+}
+.BCselectlink A:link {
+	COLOR: #ff9900
+}
+.BCselectlink A:visited {
+	COLOR: #ff9900
+}
+.NavB {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 9px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #cccccc; TEXT-DECORATION: none
+}
+.NavTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.NavTitle A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.NavTitle A:hover {
+	TEXT-DECORATION: underline
+}
+.NavTitle A:visited {
+	COLOR: #ffffff
+}
+.cNavigation {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #e6e6e6
+}
+.cNavigation A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.cNavigation A:hover {
+	TEXT-DECORATION: underline
+}
+.cNavigation A:visited {
+	COLOR: #000000
+}
+.iNavigateCaption {
+	FONT-SIZE: 11px; COLOR: black
+}
+.iNavigateCaption A:link {
+	COLOR: black
+}
+.iNavigateCaption A:visited {
+	COLOR: black
+}
+.iNavigateCaption A:hover {
+	COLOR: black; TEXT-DECORATION: none
+}
+.iNavigateItem {
+	PADDING-LEFT: 22px; FONT-SIZE: 11px; COLOR: #333333
+}
+.iNavigateItem A:link {
+	COLOR: #333333
+}
+.iNavigateItem A:visited {
+	COLOR: #333333
+}
+.iNavigateItem A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}
+.iNavigateCurrentPage {
+	FONT-SIZE: 11px; COLOR: red; FONT-STYLE: normal
+}
+.attach {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.attach A {
+	FONT-WEIGHT: normal; COLOR: #0000ff; TEXT-DECORATION: none
+}
+.attach A:hover {
+	TEXT-DECORATION: underline
+}
+.attachtd {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND: #cccccc; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.MktngTabBody {
+	FONT-SIZE: 8pt; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; BACKGROUND-COLOR: #cccccc
+}
+.imgborder {
+	BORDER-RIGHT: black 1pt solid; BORDER-TOP: black 1pt solid; BORDER-LEFT: black 1pt solid; COLOR: #000000; BORDER-BOTTOM: black 1pt solid
+}
+.Footer {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Verdana,  Helvetica, sans-serif
+}
+.Footer A {
+	FONT-SIZE: 8pt; COLOR: #0000cc
+}
+.Footer A:hover {
+	TEXT-DECORATION: underline
+}
+FORM {
+	MARGIN: 0px
+}
+BUTTON {
+	BORDER-RIGHT: #330066 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #330066 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; MARGIN: 1px; BORDER-LEFT: #330066 1px solid; COLOR: black; PADDING-TOP: 1px; BORDER-BOTTOM: #330066 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #cccccc
+}
+TEXTAREA {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: normal; FONT-SIZE: 10px; BORDER-LEFT: #000000 1pt solid; COLOR: #000000; BORDER-BOTTOM: #000000 1pt solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+SELECT {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: normal; FONT-SIZE: 10px; BORDER-LEFT: #000000 1pt solid; COLOR: #000000; BORDER-BOTTOM: #000000 1pt solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+OPTION {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: normal; FONT-SIZE: 10px; BORDER-LEFT: #000000 1pt solid; COLOR: #000000; BORDER-BOTTOM: #000000 1pt solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+INPUT {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: normal; FONT-SIZE: 10px; BORDER-LEFT: #000000 1pt solid; COLOR: #000000; BORDER-BOTTOM: #000000 1pt solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.plainInput {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+.fillTable {
+	BACKGROUND-COLOR: #0066cc; TEXT-DECORATION: none
+}
+.MktngTabHead {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: white; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #0066cc
+}
+.MktngTabHead A {
+	FONT-SIZE: 10px; COLOR: white
+}
+.external {
+	BORDER-RIGHT: #0066cc 5px solid; BORDER-TOP: #0066cc 5px solid; BORDER-LEFT: #0066cc 5px solid; WIDTH: 100%; BORDER-BOTTOM: #0066cc 5px solid; HEIGHT: 90%; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+.Asgard_external {
+	BORDER-RIGHT: #0066cc 5px solid; BORDER-TOP: #0066cc 5px solid; BORDER-LEFT: #0066cc 5px solid; WIDTH: 100%; BORDER-BOTTOM: #0066cc 5px solid; HEIGHT: 100%; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+.imevents {
+	BORDER-RIGHT: #0066cc 5px solid; BORDER-TOP: #0066cc 5px solid; BORDER-LEFT: #0066cc 5px solid; WIDTH: 100%; BORDER-BOTTOM: #0066cc 5px solid; HEIGHT: 0%; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+
+.Nav {
+	BORDER-RIGHT: #0066cc 2px solid; BORDER-TOP: #0066cc 2px solid; FONT-WEIGHT: bold; FONT-SIZE: 9px; BORDER-LEFT: #0066cc 2px solid; WIDTH: 149px; BORDER-BOTTOM: #0066cc 2px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #0066cc; TEXT-DECORATION: none
+}
+.SectionTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0066cc; BORDER-BOTTOM: 2px solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.Dcolumn {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; WIDTH: auto; COLOR: #0066cc; BORDER-BOTTOM: #0066cc 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Dcolumn_no_underline {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; WIDTH: auto; COLOR: #0066cc;  FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.contextual {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; MARGIN-LEFT: 5px; BORDER-LEFT: #0066cc 1px dashed; COLOR: #0066cc; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.contextual A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #0000cd; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.contextual A {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #0000cd; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.workarea {
+	BORDER-RIGHT: #e4e4e4 1px solid; BORDER-TOP: #e4e4e4 1px solid; FONT-SIZE: 8pt; BACKGROUND-IMAGE: url(../images/workarea.gif); BORDER-LEFT: #e4e4e4 1px solid; BORDER-BOTTOM: #e4e4e4 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.workareatext {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.qvHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; BACKGROUND: #f0f0f0; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.qvcategory {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000066; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif
+}
+.qvsubcategory {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif
+}
+.qvsubsubcategory {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif
+}
+.qvdocuments {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial,Verdana, Helvetica, sans-serif
+}
+.qvdocuments A {
+	FONT-SIZE: 8pt; COLOR: #0000cc; TEXT-DECORATION: none
+}
+.qvdocuments A:hover {
+	FONT-SIZE: 8pt; TEXT-DECORATION: underline
+}
+.Asgard_severity_DOWN {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #FFFFFF; BACKGROUND-COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_severity_CRITICAL {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #FFFFFF; BACKGROUND-COLOR: #FF0000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_severity_MAJOR {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; BACKGROUND-COLOR: #FF6600; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_severity_MINOR {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; BACKGROUND-COLOR: #FFCC66; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_severity_WARNING {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; BACKGROUND-COLOR: #FFFF33; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_severity_INFO {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; BACKGROUND-COLOR: #333399; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_severity_OK {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; BACKGROUND-COLOR: #33CC33; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_severity_UNKNOWN {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; BACKGROUND-COLOR: #B8B8B8; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_Executive_Summary {
+	FONT-SIZE: 9pt; COLOR: #CC0000; BACKGROUND-COLOR: #FFFFCC; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_Comment_Table {
+	FONT-SIZE: 9pt; COLOR: #333399; BACKGROUND-COLOR: #CCCCFF; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif
+}
+.Asgard_Dcolumn_no_line {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; WIDTH: auto; COLOR: #0066CC;  FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Asgard_News_Header {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; WIDTH: auto; COLOR: #FF9900;  FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Asgard_News_Seemore {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; WIDTH: auto; COLOR: #0066CC;  FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
